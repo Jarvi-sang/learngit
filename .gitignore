@@ -1,1 +1,3 @@
-*.txt：
+*.txt
+# 下面这个文件夹应该不会被上传
+shouldBeIgnore/
